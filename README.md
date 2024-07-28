@@ -15,8 +15,8 @@
 <hr>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-    <img src="/resources/grid-snake.svg" alt="snake">
+  <a href="(https://github.com/butt-sahab)">
+    <img src="[resources/grid-snake.svg](https://github.com/1999AZZAR/1999AZZAR/blob/50d99c95c6010d5bf16c9de4144a33b23bfe11b3/resources/grid-snake.svg)" alt="snake">
   </a>
 </div>
 
@@ -27,24 +27,24 @@
   <div align="center">
     <h2>You can reach me by:</h2>
     <p>
-      <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="_blank">
+      <a href="" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="azzar" height="30">
       </a>
-      <a href="https://fb.com/1999AZZAR" target="_blank">
+      <a href="" target="_blank">
         <img src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="azzar" height="30">
       </a>
-      <a href="mailto:azzar.mr.zs@gmail.com" target="_blank">
+      <a href="mailto:harmainalibutt6@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="azzar" height="30">
       </a>
     </p>
     <p>
-      <a href="https://instagram.com/azzar_budiyanto" target="_blank">
+      <a href="https://instagram.com/aka_ajee" target="_blank">
         <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="azzar" height="30">
       </a>
-      <a href="https://wa.me/+6282232529804" target="_blank">
+      <a href="https://wa.me/+923486919189" target="_blank">
         <img src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="azzar" height="30">
       </a>
-      <a href="https://twitter.com/siapa_hayosiapa" target="_blank">
+      <a href="" target="_blank">
         <img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="azzar" height="30">
       </a>
     </p>
@@ -56,24 +56,16 @@
   <div align="center">
     <h2>About this Account</h2>
     <p>
-      <a href="github.com/1999AZZAR" target="_blank">
-        <img src="https://komarev.com/ghpvc/?username=1999AZZAR&style=for-the-badge&label=PROFILE+VIEWS" height="25" alt="views count">
+      <a href="https://github.com/butt-sahab" target="_blank">
+        <img src="https://komarev.com/ghpvc/?username=butt-sahab&style=for-the-badge&label=PROFILE+VIEWS" height="25" alt="views count">
       </a>
-      <a href="https://1999azzar.github.io/1999AZZAR/">
+      <a href="https://github.com/butt-sahab">
         <img src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2F1999azzar.github.io%2F1999AZZAR%2F" height="25" alt="website">
       </a>
     </p>
     <p>
       <a href="https://www.codefactor.io/repository/github/1999azzar/1999azzar/overview/main">
         <img src="https://www.codefactor.io/repository/github/1999azzar/1999azzar/badge/main" height="25" alt="CodeFactor">
-      </a>
-      <a href="github.com/1999AZZAR" target="_blank">
-        <img src="https://github.com/1999AZZAR/1999AZZAR/actions/workflows/pages/pages-build-deployment/badge.svg" height="25" alt="page built">
-      </a>
-    </p>
-    <p>
-      <a href="github.com/1999AZZAR" target="_blank">
-        <img src="https://img.shields.io/github/license/1999AZZAR/1999AZZAR?color=purple&style=for-the-badge" height="25" alt="license">
       </a>
     </p>
   </div>
