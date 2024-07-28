@@ -11,9 +11,6 @@
     <h1>Hello, I'm Ajee,</h1>
     <h4>I'm an ordinary person that tries to code sometimes :) </h4>
 </div>
-
-<hr>
-
 <details>
   <summary>Contact Me ☎️</summary>
   <div align="center">
