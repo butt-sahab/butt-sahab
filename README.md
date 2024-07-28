@@ -59,14 +59,6 @@
       <a href="https://github.com/butt-sahab" target="_blank">
         <img src="https://komarev.com/ghpvc/?username=butt-sahab&style=for-the-badge&label=PROFILE+VIEWS" height="25" alt="views count">
       </a>
-      <a href="https://github.com/butt-sahab">
-        <img src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2F1999azzar.github.io%2F1999AZZAR%2F" height="25" alt="website">
-      </a>
-    </p>
-    <p>
-      <a href="https://www.codefactor.io/repository/github/1999azzar/1999azzar/overview/main">
-        <img src="https://www.codefactor.io/repository/github/1999azzar/1999azzar/badge/main" height="25" alt="CodeFactor">
-      </a>
     </p>
   </div>
 </details>
@@ -78,23 +70,23 @@
     <details open>
       <summary><h3>Languages</h3></summary>
       <p>
-        <a href="https://github.com/1999AZZAR/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: overall Top Langs">
+        <a href="https://github.com/butt-sahab">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=butt-sahab&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: overall Top Langs">
         </a>
       </p>
       <p>
-        <a href="https://github.com/1999AZZAR/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs by repo">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs by commit">
+        <a href="https://github.com/butt-sahab">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=butt-sahab&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs by repo">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=butt-sahab&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs by commit">
         </a>
       </p>
     </details>
     <details open>
       <summary><h3>Statistics</h3></summary>
       <p>
-        <a href="https://github.com/1999AZZAR/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true">
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true">
+        <a href="https://github.com/butt-sahab">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=butt-sahab&show_icons=true&theme=gruvbox&hide_border=true">
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=butt-sahab&theme=gruvbox&hide_border=true">
         </a>
       </p>
     </details>
