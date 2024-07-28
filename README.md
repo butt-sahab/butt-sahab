@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="(https://github.com/butt-sahab)">
-    <img src="[resources/grid-snake.svg](https://github.com/1999AZZAR/1999AZZAR/blob/50d99c95c6010d5bf16c9de4144a33b23bfe11b3/resources/grid-snake.svg)" alt="snake">
+    <img src="(https://github.com/1999AZZAR/1999AZZAR/blob/50d99c95c6010d5bf16c9de4144a33b23bfe11b3/resources/grid-snake.svg)" alt="snake">
   </a>
 </div>
 
