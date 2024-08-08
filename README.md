@@ -115,7 +115,7 @@
 
 ### Support
 
-You can support me by buying me a coffee if you like to.
+You can support me by buying me a coffee if you like to!
 
 <div align="left">
   <a href="" target="_blank">
